@@ -12,7 +12,7 @@
 # LANGKAH KERJA :
 1. Pertama-tama anda harus menginstal software Arduino IDE di komputer anda
 2. Setelah menginstal software Arduino IDE, anda juga harus menginstal library ESP32 (https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json)
-3. Masukkan link library pada menu preference yang di Arduino IDE (cara penginstalan dan penambahan library ada pada file di atas)
+3. Masukkan link library pada menu preference yang di Arduino IDE (cara penginstalan library dan penambahan board ada pada file di atas)
 4. Jika sudah terinstal dan ditambahkan, sekarang anda bisa mulai memasukkan programnya (contoh program ada pada file "LED_ESP32" diatas)
 5. Setelah itu sambungkan ESP32 dengan komputer menggunakan kabel micro usb
 6. Upload program yang sudah di masukkan tadi ke dalam esp32 
