@@ -29,6 +29,8 @@
 4. Dan terakhir hubungkan semua kaki resistor yang berada di jalur negatif dengan ground ESP32 menggunakan kabel jumper
 5. Untuk lebih jelaskan lihat gambar yang tertera di file atas
 
+UNTUK HASIL AKHIR FOTO SUDAH TERTERA DI DALAM FILE RANGKAIAN YAA, TERIMAKASIH😁😁
+
 
 
 
