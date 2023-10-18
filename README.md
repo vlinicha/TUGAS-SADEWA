@@ -1,4 +1,6 @@
-# MENYALAKAN LAMPU LED MENGGUNAKAN HP KONEKSI WIFI LOKAL
+# Tema : Aplikasi IOT Dasar Dan Penerapan 
+# Judul : Menyalakan Lampu LED Menggunakan HP Koneksi WiFi Lokal
+# Nama : Alvlinicha Nadya Anindita 
 
 # ALAT DAN BAHAN:
 1. ESP32
