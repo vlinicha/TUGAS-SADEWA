@@ -2,7 +2,7 @@
 
 # ALAT DAN BAHAN:
 1. ESP32
-2. komputer + Arduino IDE
+2. Komputer + Arduino IDE
 3. Kabel micro usb
 4. Project board
 5. Kabel jumper wires female to male
