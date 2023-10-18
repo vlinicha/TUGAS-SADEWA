@@ -17,7 +17,7 @@
 5. Setelah itu sambungkan ESP32 dengan komputer menggunakan kabel micro usb
 6. Upload program yang sudah di masukkan tadi ke dalam esp32 
 7. Jika sudah terupload maka tunggu beberapa saat hingga kotak putih di bagian kanan bawah Arduino IDE terisi warna hijau sepenuhnya
-8. Setelah itu sambungkan hp anda dengan jaringan wifi yang sudah di program tadi, masukkan password yang sama dengan di program tadi
+8. Setelah itu sambungkan hp anda dengan jaringan wifi yang sudah di program tadi, masukkan password yang sama dengan di program tadi (contoh ada di file atas)
 9. Jika sudah terkoneksi, anda bisa membuka serial monitor yang ada di Arduino IDE dan dapat mengetahui alamat IP dari jaringan wifinya
 10. Lalu kalian buka web pada hp anda dan masukan alamat IP tadi hingga muncul laman berisi tulisan on berwarna hijau (seperti contoh di file atas)
 11. Dan web itulah yang membantu anda untuk mengoprasikan lampu LED agar bisa hidup dan mati sesuai keinginan anda, selamat mencoba:)
